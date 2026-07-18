@@ -18,9 +18,9 @@ Deep learning pipeline that classifies brain MRI scans into four categories — 
 
 | Model | Test Accuracy | Params (approx.) |
 |---|---|---|
-| Custom CNN | see notebook | ~12M |
-| MobileNetV3-Large | see notebook | ~5M |
-| EfficientNetV2-S | see notebook | ~21M |
+| Custom CNN | 88% | ~12M |
+| MobileNetV3-Large | 92.50% | ~5M |
+| EfficientNetV2-S | 93% | ~21M |
 
 Full training curves, classification reports, and confusion matrices for each model are in the notebook.
 
